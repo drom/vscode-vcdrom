@@ -60331,7 +60331,7 @@ module.exports={
 module.exports={
   "name": "vcdrom",
   "displayName": "VCDrom",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "VCD viewer for VS Code",
   "main": "vcdrom-main.js",
   "browser": "vcdrom-main.js",
@@ -60442,4 +60442,5 @@ module.exports={
     "hasPreReleaseVersion": false
   }
 }
+
 },{}]},{},[1]);

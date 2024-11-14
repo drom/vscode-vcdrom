@@ -85,12 +85,12 @@
   "homepage": "https://github.com/wavedrom/vscode-vcdrom#readme",
   "devDependencies": {
     "@drom/eslint-config": "^0.12.0",
-    "@vscode/test-web": "^0.0.51",
-    "@wavedrom/doppler": "^1.11.0",
-    "browserify": "^17.0.0",
-    "eslint": "^8.56.0",
+    "@vscode/test-web": "^0.0.63",
+    "@wavedrom/doppler": "^1.13.0",
+    "browserify": "^17.0.1",
+    "eslint": "^8.57.1",
     "onml": "^2.1.0",
-    "style-mod": "^4.1.0",
+    "style-mod": "^4.1.2",
     "vcd-stream": "^1.5.0",
     "watchify": "^4.0.0",
     "waveql": "^1.8.0"
@@ -106,7 +106,7 @@
     "isApplicationScoped": false,
     "updated": true,
     "isPreReleaseVersion": false,
-    "installedTimestamp": 1706860732228,
+    "installedTimestamp": 1707953676061,
     "pinned": false,
     "preRelease": false,
     "hasPreReleaseVersion": false
